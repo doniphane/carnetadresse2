@@ -7,5 +7,5 @@ if ($id) {
     $stmt->execute([$id]);
 }
 
-header("");
+header("Location : index.php ");
 exit();

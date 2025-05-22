@@ -9,6 +9,7 @@
 </head>
 
 <body class="bg-gray-100 p-8">
+
     <div class="max-w-4xl mx-auto bg-white p-6 rounded shadow">
         <h1 class="text-2xl font-bold mb-6">Carnet d'adresses</h1>
         <a href="ajouter.php" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Ajouter un contact</a>
